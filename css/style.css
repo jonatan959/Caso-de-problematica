@@ -1,0 +1,61 @@
+body {
+  background:url(../imagenes/principal.jpg);  
+}
+
+/*Configuración de estilo de letra */
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Times New Roman", Times, serif;
+  margin: 1px;
+  color:whitesmoke;
+}
+
+h3 {
+  font-size: 12px;
+  text-align: center;
+  color:whitesmoke;
+}
+
+p {
+  text-align: justify;
+  text-transform: capitalize;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12;
+  color:whitesmoke;
+}
+
+/*Configuracion de estilo de la  imagen*/
+img {
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+  border: 3px black solid;
+}
+.img1 {
+  width: 500px;
+  height: 500px;
+}
+/* Configracion de los estilos de div */
+div.titulo {
+  border: 4px black solid;
+  border-radius: 10px;
+  background: silver;
+}
+
+div.opciones {
+  text-align: justify;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12;
+  text-transform: capitalize;
+  color:whitesmoke;
+}
+div.opcion1 {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bolder;
+  font-size: 12;
+  font-family: "Times New Roman", Times, serif;
+  color:whitesmoke;
+}
+
